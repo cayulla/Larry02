@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Julio Cayulla**, Git Loveer
+**Julio Cayulla**, Git Loveer &&  Larry Ploter
